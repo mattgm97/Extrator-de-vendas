@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://vitorgiono@dev.azure.com/vitorgiono/E-comm%20Ri%20Happy/_git/ExtracaoRelatorioVendasVTEX"
+    "url": "url"
   },
   "keywords": [
     "vtex",
@@ -16,7 +16,7 @@
     "api",
     "nodejs"
   ],
-  "author": "João Francisco Dias da Silva",
+  "author": "Matheus Germano de Moraes",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
